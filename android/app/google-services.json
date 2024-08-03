@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "113636929999",
+    "project_id": "sharkchat-7d8b2",
+    "storage_bucket": "sharkchat-7d8b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113636929999:android:65814f7b1fa1e0dd91e2ba",
+        "android_client_info": {
+          "package_name": "com.example.shark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113636929999-o2oapip5tt4rltckv7eq60bbd3pfbv3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5eqly4-PT6OUvTP0Xyxi4LwZUkFT9XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113636929999-o2oapip5tt4rltckv7eq60bbd3pfbv3g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113636929999-jjiafl7grfdp37funorgp4c1spch7s3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
